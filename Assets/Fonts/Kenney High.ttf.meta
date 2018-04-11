@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac17c9279c4e4124e8e9c5c96ca99c2c
+timeCreated: 1523472004
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kenney High
+  fontNames:
+  - Kenney High
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
